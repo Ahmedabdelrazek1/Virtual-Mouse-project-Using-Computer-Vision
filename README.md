@@ -1,7 +1,5 @@
 # **Virtual Mouse Project Using Computer Vision**
 
-![Virtual Mouse Banner](https://via.placeholder.com/1200x300?text=Virtual+Mouse+Project)
-
 ## **Overview**
 The **Virtual Mouse Project** is an innovative application leveraging computer vision and artificial intelligence to emulate a physical mouse using hand gestures. This project enables users to interact with their computer seamlessly, offering a touchless, intuitive, and accessible experience.
 
